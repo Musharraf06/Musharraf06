@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Musharraf</h1>
-<h3 align="center">A passionate developer wanting to learn new stuff everyday and looking to solve real world problems</h3>
+<h3 align="center">A passionate developer trying to learn something new everyday and looking to solve real world problems</h3>
 
 - 🔭 I’m currently working on [Quiz app](https://github.com/Musharraf06/pop-quiz.git)
 
