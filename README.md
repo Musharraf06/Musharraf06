@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Utility app](https://github.com/Musharraf06/utility-app.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**
 
