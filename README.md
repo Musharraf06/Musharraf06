@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Utility app](https://github.com/Musharraf06/utility-app.git)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Node.js, Express, MongoDB**
 
 - 📫 How to reach me **mohammedmusharraf06@gmail.com**
 
